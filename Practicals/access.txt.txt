@@ -1,0 +1,5 @@
+homepageurl: https://as1.v.je/index.php
+adminuser: administrator
+adminpass: csy2028
+nonadminuser: user@user.com
+nonadminpassword: nonadmimpassword
